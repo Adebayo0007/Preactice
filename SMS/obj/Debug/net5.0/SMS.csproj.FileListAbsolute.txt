@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\legitSMS\SMS\obj\Debug\net5.0\SMS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\legitSMS\SMS\obj\Debug\net5.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\legitSMS\SMS\obj\Debug\net5.0\SMS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\legitSMS\SMS\obj\Debug\net5.0\SMS.AssemblyInfo.cs
+C:\Users\user\Desktop\legitSMS\SMS\obj\Debug\net5.0\SMS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\legitSMS\SMS\bin\Debug\net5.0\SMS.exe
+C:\Users\user\Desktop\legitSMS\SMS\bin\Debug\net5.0\SMS.deps.json
+C:\Users\user\Desktop\legitSMS\SMS\bin\Debug\net5.0\SMS.runtimeconfig.json
+C:\Users\user\Desktop\legitSMS\SMS\bin\Debug\net5.0\SMS.runtimeconfig.dev.json
+C:\Users\user\Desktop\legitSMS\SMS\bin\Debug\net5.0\SMS.dll
+C:\Users\user\Desktop\legitSMS\SMS\bin\Debug\net5.0\ref\SMS.dll
+C:\Users\user\Desktop\legitSMS\SMS\bin\Debug\net5.0\SMS.pdb
+C:\Users\user\Desktop\legitSMS\SMS\obj\Debug\net5.0\SMS.dll
+C:\Users\user\Desktop\legitSMS\SMS\obj\Debug\net5.0\ref\SMS.dll
+C:\Users\user\Desktop\legitSMS\SMS\obj\Debug\net5.0\SMS.pdb
+C:\Users\user\Desktop\legitSMS\SMS\obj\Debug\net5.0\SMS.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\bin\Debug\net6.0\SMS.exe
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\bin\Debug\net6.0\SMS.deps.json
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\bin\Debug\net6.0\SMS.runtimeconfig.json
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\bin\Debug\net6.0\SMS.dll
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\bin\Debug\net6.0\SMS.pdb
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\obj\Debug\net6.0\SMS.csproj.AssemblyReference.cache
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\obj\Debug\net6.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\obj\Debug\net6.0\SMS.AssemblyInfoInputs.cache
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\obj\Debug\net6.0\SMS.AssemblyInfo.cs
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\obj\Debug\net6.0\SMS.csproj.CoreCompileInputs.cache
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\obj\Debug\net6.0\SMS.dll
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\obj\Debug\net6.0\refint\SMS.dll
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\obj\Debug\net6.0\SMS.pdb
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\obj\Debug\net6.0\SMS.genruntimeconfig.cache
+C:\Users\Treehays\Documents\CLH\20221014AbdulsalamAhmad\SMS\obj\Debug\net6.0\ref\SMS.dll
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\bin\Debug\net6.0\SMS.exe
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\bin\Debug\net6.0\SMS.deps.json
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\bin\Debug\net6.0\SMS.runtimeconfig.json
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\bin\Debug\net6.0\SMS.dll
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\bin\Debug\net6.0\SMS.pdb
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\obj\Debug\net6.0\SMS.csproj.AssemblyReference.cache
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\obj\Debug\net6.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\obj\Debug\net6.0\SMS.AssemblyInfoInputs.cache
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\obj\Debug\net6.0\SMS.AssemblyInfo.cs
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\obj\Debug\net6.0\SMS.csproj.CoreCompileInputs.cache
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\obj\Debug\net6.0\SMS.dll
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\obj\Debug\net6.0\refint\SMS.dll
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\obj\Debug\net6.0\SMS.pdb
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\obj\Debug\net6.0\SMS.genruntimeconfig.cache
+C:\Users\ADEOYE MARVELLOUS\Desktop\Sales-Managment-system\SMS\obj\Debug\net6.0\ref\SMS.dll
